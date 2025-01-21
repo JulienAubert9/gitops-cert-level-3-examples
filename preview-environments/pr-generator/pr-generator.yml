@@ -12,7 +12,7 @@ spec:
         owner: JulienAubert9
         repo: gitops-cert-level-3-examples
         labels:
-        - preview
+        - preview-ready
       requeueAfterSeconds: 180
   template:
     metadata:
